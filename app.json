@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "nasapp",
-    "slug": "nasapp",
+    "name": "imagenesNasa",
+    "slug": "imagenesNasa",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/NASA.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/images/NASA.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,7 +18,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "backgroundColor": "#03dd91"
       },
       "edgeToEdgeEnabled": true
     },
